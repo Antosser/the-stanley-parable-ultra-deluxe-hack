@@ -9,3 +9,4 @@ A hack for noclipping in The Stanley Parable: Ultra Deluxe
 
 ## Note
 * I have only tested it on x64 bit. It may not work on x32
+* It only works in the first section of the map (Until about a bit after the two doors)
